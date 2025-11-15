@@ -65,7 +65,7 @@ The interface includes:
 ## 🖥️ **Screenshots**
 
 ![View of home page when app is just opened](/screenshots/home.png?raw=true "Home")
-![View of an entangled qubit](/screenshots/entangled.png?raw=true "Ent")
+![View of an entangled qubit](/screenshots/ent.png?raw=true "Ent")
 
 ---
 
